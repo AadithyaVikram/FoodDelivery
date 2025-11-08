@@ -1,0 +1,18 @@
+{
+  "orderItemModels" : [
+    {
+      "foodModel" : {
+        "id" : 10,
+        "name" : "Fideua",
+        "calorie" : 558.00,
+        "description" : "Fideua",
+        "price" : 15.00,
+        "category" : "MEAL"
+      },
+      "id" : 52,
+      "pieces" : 20,
+      "price" : 101
+    }
+  ],
+  "price" : 101
+}
